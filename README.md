@@ -2,7 +2,8 @@
 Правки в законы от моего имени
 
 скачайте .PDF файл - там с форматированием все
-https://github.com/icreator/DUMA-2016-06-02/blob/master/%D0%94%D1%83%D0%BC%D0%B0%202016%2C%202%20%D0%B8%D1%8E%D0%BD%D1%8F.pdf
+https://docs.google.com/document/d/1FP2-bIM0y7MW3D-VatIdulB5GFVn3amLLiMNl5iATQ8/edit?usp=sharing
+https://github.com/icreator/DUMA-2016-06-02/blob/master/DUMA-2016-06-02.pdf
 
 
 # кроме того по поводу использования криптовалют:
