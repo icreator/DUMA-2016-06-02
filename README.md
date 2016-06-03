@@ -1,5 +1,5 @@
 # DUMA-2016-06-02
-Правки в законы от моего имени
+Правки в законы для блокчейн 
 
 добавлено:
 https://github.com/icreator/DUMA-2016-06-02/blob/master/surrogate_bitcoin.md
