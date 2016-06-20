@@ -1,6 +1,6 @@
 https://docs.google.com/document/d/1ByYSuB-Wes0MD2a0uV_9rrUF7pwaUx9W-MfDXrqRgb4/edit?usp=sharing
 
-# Денежные суррогаты и Биткоин - поправки в законы
+# Блокчейн экономика. Деньги
 
 Ермолаев Дмитрий Сергеевич
 http://DATACHAINS.World 
