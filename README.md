@@ -1,8 +1,9 @@
 # DUMA-2016-06-02
 Правки в законы для блокчейн 
 
-добавлено:
-https://github.com/icreator/DUMA-2016-06-02/blob/master/surrogate_bitcoin.md
+Набор поправок в законы РФ для Думы по регулированию криптовалю и биткоина.
+
+А так же набор статей по блокчейн-экономике
 
 скачайте .PDF файл - там с форматированием все
 https://docs.google.com/document/d/1FP2-bIM0y7MW3D-VatIdulB5GFVn3amLLiMNl5iATQ8/edit?usp=sharing
