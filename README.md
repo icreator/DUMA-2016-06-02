@@ -4,6 +4,8 @@
 
 А так же набор статей по блокчейн-экономике.
 
+Последние: https://github.com/icreator/new_government_3000
+
 скачайте .PDF файл - там с форматированием все
 https://docs.google.com/document/d/1FP2-bIM0y7MW3D-VatIdulB5GFVn3amLLiMNl5iATQ8/edit?usp=sharing
 https://github.com/icreator/DUMA-2016-06-02/blob/master/DUMA-2016-06-02.pdf
